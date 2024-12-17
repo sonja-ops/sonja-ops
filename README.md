@@ -1,4 +1,6 @@
-## Hi there 👋
+# velkommen til min GitHub
+
+Mitt navn er Sonja og jeg går på kurset på kode loftet.
 
 <!--
 **sonja-ops/sonja-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
